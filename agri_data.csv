@@ -1,0 +1,501 @@
+N,P,K,temperature,humidity,ph,rainfall,soil_type,symptom1,symptom2,crop,fertilizer,yield
+66,32,53,35,66,6.0,117,Sandy,spots,no growth,Wheat,NPK,30
+100,33,41,31,85,5.8,219,Clay,none,spots,Maize,NPK,23
+90,60,60,30,83,6.7,207,Clay,none,dry leaves,Maize,DAP,34
+78,45,30,31,56,6.1,146,Sandy,dry leaves,dry leaves,Rice,Urea,31
+65,32,66,30,44,7.2,214,Sandy,dry leaves,no growth,Maize,Urea,23
+57,56,37,19,82,6.2,150,Clay,spots,dry leaves,Rice,NPK,28
+55,48,36,29,58,6.4,107,Sandy,none,yellow leaves,Wheat,NPK,27
+69,67,40,26,47,7.2,192,Loamy,none,dry leaves,Rice,DAP,23
+55,47,56,33,84,6.1,139,Loamy,dry leaves,none,Wheat,DAP,24
+90,36,65,33,75,7.4,249,Clay,none,spots,Rice,DAP,39
+64,45,66,31,71,6.5,130,Sandy,none,dry leaves,Wheat,DAP,27
+45,64,30,33,84,7.2,138,Clay,dry leaves,yellow leaves,Maize,DAP,40
+80,51,48,30,84,6.4,213,Sandy,yellow leaves,none,Wheat,DAP,36
+98,53,37,29,52,5.6,222,Loamy,spots,yellow leaves,Maize,Urea,34
+94,47,50,27,55,7.3,245,Loamy,spots,no growth,Rice,DAP,26
+77,31,63,19,74,6.5,227,Loamy,none,yellow leaves,Maize,NPK,25
+60,69,47,23,87,7.2,184,Clay,spots,no growth,Wheat,NPK,24
+66,56,49,19,70,5.8,176,Loamy,spots,no growth,Wheat,Urea,23
+89,50,68,21,53,6.3,179,Sandy,spots,no growth,Wheat,DAP,21
+100,52,66,19,61,6.3,202,Clay,dry leaves,none,Maize,Urea,39
+79,37,50,25,46,5.7,123,Loamy,no growth,yellow leaves,Maize,DAP,25
+49,54,45,23,67,7.2,213,Sandy,none,dry leaves,Rice,Urea,31
+44,50,60,35,67,5.7,242,Loamy,dry leaves,yellow leaves,Wheat,DAP,25
+82,65,58,24,41,7.2,247,Clay,spots,no growth,Rice,NPK,23
+47,66,70,30,82,6.5,193,Clay,spots,spots,Rice,Urea,33
+58,68,32,21,90,6.6,191,Loamy,no growth,spots,Maize,NPK,29
+88,37,59,25,78,5.7,179,Sandy,spots,none,Rice,Urea,38
+69,53,53,30,74,7.4,227,Clay,yellow leaves,spots,Maize,DAP,37
+50,57,51,19,42,6.1,127,Sandy,dry leaves,dry leaves,Rice,Urea,32
+48,56,37,25,60,6.2,121,Clay,none,no growth,Maize,DAP,29
+52,51,55,23,52,5.6,244,Clay,spots,dry leaves,Maize,Urea,39
+78,69,56,21,72,6.0,201,Clay,none,no growth,Wheat,NPK,34
+91,67,44,26,45,7.5,228,Sandy,none,no growth,Maize,NPK,38
+54,33,51,25,77,5.6,181,Clay,no growth,yellow leaves,Rice,DAP,22
+79,43,43,30,68,6.2,245,Sandy,no growth,none,Maize,Urea,33
+99,38,31,31,44,7.1,131,Clay,dry leaves,dry leaves,Maize,NPK,31
+67,33,56,28,47,7.0,118,Clay,yellow leaves,dry leaves,Wheat,NPK,24
+96,54,45,30,61,6.3,214,Loamy,no growth,spots,Wheat,DAP,29
+42,31,53,31,66,7.3,179,Sandy,none,yellow leaves,Maize,DAP,22
+44,60,57,18,57,7.0,132,Sandy,dry leaves,spots,Wheat,NPK,24
+79,41,46,29,62,6.0,122,Sandy,no growth,yellow leaves,Rice,Urea,20
+85,65,42,31,48,7.1,155,Sandy,dry leaves,spots,Rice,DAP,34
+67,52,47,27,86,6.3,173,Loamy,yellow leaves,spots,Maize,Urea,38
+100,57,44,27,75,5.6,179,Clay,none,dry leaves,Wheat,DAP,38
+41,62,51,33,68,6.6,240,Loamy,no growth,yellow leaves,Maize,DAP,21
+80,39,63,20,74,5.8,199,Clay,yellow leaves,yellow leaves,Rice,NPK,39
+60,43,64,34,83,6.6,236,Clay,spots,none,Rice,DAP,37
+84,48,61,33,74,6.9,105,Clay,dry leaves,yellow leaves,Wheat,Urea,37
+58,35,51,18,87,6.9,236,Sandy,dry leaves,none,Wheat,DAP,39
+44,30,46,24,51,7.1,192,Sandy,yellow leaves,dry leaves,Wheat,DAP,23
+79,52,63,19,83,5.7,116,Loamy,no growth,dry leaves,Wheat,Urea,30
+61,33,70,33,71,6.0,181,Clay,dry leaves,yellow leaves,Wheat,Urea,24
+80,58,69,29,89,5.6,109,Sandy,none,yellow leaves,Maize,DAP,38
+51,50,46,27,59,6.7,239,Clay,spots,none,Wheat,Urea,20
+69,56,49,31,76,6.7,183,Sandy,no growth,spots,Rice,Urea,33
+47,53,38,21,46,7.5,248,Clay,none,dry leaves,Rice,NPK,28
+51,63,33,27,41,6.9,161,Sandy,no growth,yellow leaves,Wheat,NPK,40
+74,34,60,33,63,7.0,156,Clay,no growth,no growth,Maize,NPK,39
+68,39,64,33,50,5.8,230,Loamy,no growth,yellow leaves,Maize,NPK,28
+97,35,45,26,65,7.3,225,Loamy,yellow leaves,dry leaves,Wheat,Urea,24
+51,42,58,32,43,6.8,130,Loamy,yellow leaves,dry leaves,Maize,DAP,32
+49,64,49,21,62,6.1,217,Clay,yellow leaves,dry leaves,Rice,DAP,23
+97,51,55,28,55,6.1,129,Sandy,no growth,no growth,Rice,NPK,25
+40,56,65,28,73,6.5,127,Loamy,yellow leaves,dry leaves,Wheat,Urea,39
+94,61,47,18,70,5.8,199,Clay,spots,yellow leaves,Maize,NPK,29
+54,69,59,35,89,5.5,231,Loamy,none,dry leaves,Maize,Urea,38
+62,70,30,21,65,7.5,151,Loamy,spots,yellow leaves,Maize,DAP,34
+63,67,52,34,50,5.5,212,Loamy,no growth,none,Wheat,DAP,36
+48,70,44,23,66,6.4,181,Clay,none,spots,Rice,DAP,34
+87,47,38,33,76,6.6,131,Clay,none,spots,Maize,Urea,29
+75,36,43,32,67,6.1,237,Sandy,dry leaves,yellow leaves,Rice,NPK,39
+94,54,37,31,56,6.1,130,Clay,dry leaves,yellow leaves,Maize,DAP,23
+70,38,50,33,49,6.8,151,Loamy,none,dry leaves,Maize,NPK,35
+93,59,48,33,60,6.7,162,Sandy,dry leaves,dry leaves,Maize,Urea,20
+67,64,37,20,41,7.3,166,Loamy,dry leaves,dry leaves,Rice,NPK,34
+67,35,56,22,85,7.4,103,Sandy,none,yellow leaves,Maize,NPK,34
+80,52,47,35,51,6.8,246,Loamy,spots,spots,Maize,Urea,37
+44,42,46,20,75,6.4,229,Loamy,spots,none,Rice,Urea,27
+73,58,33,31,48,6.3,210,Loamy,none,spots,Rice,NPK,22
+75,57,63,34,41,7.2,130,Clay,dry leaves,yellow leaves,Maize,NPK,22
+55,33,68,26,85,6.4,139,Loamy,yellow leaves,none,Wheat,DAP,21
+75,35,47,26,75,6.6,244,Sandy,none,none,Maize,NPK,39
+67,70,45,34,73,5.5,118,Loamy,spots,yellow leaves,Wheat,Urea,30
+54,47,53,25,66,6.0,199,Loamy,spots,spots,Wheat,DAP,28
+99,43,46,35,65,6.6,125,Clay,spots,dry leaves,Wheat,DAP,36
+48,52,57,28,70,7.0,162,Loamy,none,none,Rice,NPK,36
+86,42,63,23,89,7.3,200,Clay,dry leaves,no growth,Maize,Urea,36
+65,35,67,24,43,6.6,184,Clay,yellow leaves,yellow leaves,Rice,DAP,34
+74,32,41,33,56,7.0,105,Loamy,none,dry leaves,Maize,DAP,31
+45,50,46,34,44,7.0,222,Loamy,yellow leaves,spots,Maize,Urea,27
+89,48,70,30,48,6.6,100,Sandy,yellow leaves,none,Wheat,DAP,24
+56,46,63,31,85,6.1,249,Loamy,yellow leaves,none,Wheat,Urea,25
+52,58,60,19,66,6.0,199,Sandy,none,spots,Rice,DAP,28
+86,44,50,34,45,6.7,245,Clay,spots,spots,Wheat,NPK,26
+42,45,40,30,71,6.8,108,Clay,yellow leaves,dry leaves,Wheat,NPK,28
+58,49,35,20,79,6.5,247,Loamy,dry leaves,spots,Maize,NPK,26
+58,44,50,35,76,7.4,185,Clay,no growth,dry leaves,Maize,Urea,20
+40,68,45,30,50,6.5,162,Clay,yellow leaves,none,Maize,Urea,25
+50,60,38,28,82,7.2,193,Sandy,no growth,yellow leaves,Maize,NPK,33
+91,52,32,34,44,5.7,240,Loamy,none,spots,Maize,DAP,35
+72,61,33,35,72,7.2,211,Clay,none,no growth,Wheat,NPK,33
+70,65,68,35,66,7.3,223,Clay,none,none,Maize,DAP,36
+70,63,57,21,68,6.5,155,Clay,spots,none,Maize,NPK,40
+54,48,41,35,45,5.8,137,Sandy,yellow leaves,none,Wheat,NPK,26
+72,47,60,26,61,7.3,135,Loamy,spots,no growth,Maize,DAP,25
+46,31,42,33,74,6.5,123,Clay,spots,yellow leaves,Wheat,Urea,34
+65,45,49,20,61,6.0,205,Sandy,none,none,Maize,Urea,21
+70,38,47,20,45,5.7,185,Loamy,none,dry leaves,Maize,Urea,27
+66,51,51,20,56,5.6,231,Sandy,no growth,spots,Maize,Urea,29
+44,68,61,35,87,7.3,220,Loamy,spots,dry leaves,Wheat,Urea,33
+95,33,53,27,54,7.4,247,Clay,yellow leaves,spots,Rice,NPK,38
+96,56,48,34,90,6.2,209,Loamy,yellow leaves,spots,Maize,DAP,35
+78,36,61,33,80,6.3,136,Clay,no growth,no growth,Maize,Urea,40
+41,33,61,20,40,6.2,148,Loamy,no growth,spots,Rice,DAP,23
+68,67,33,31,42,6.9,246,Clay,none,no growth,Maize,Urea,32
+44,70,53,24,46,6.0,122,Sandy,no growth,spots,Rice,DAP,31
+74,34,62,34,73,6.8,137,Sandy,spots,spots,Rice,NPK,29
+65,34,35,31,47,7.1,111,Clay,none,yellow leaves,Rice,NPK,29
+66,40,41,34,76,7.3,130,Loamy,no growth,yellow leaves,Rice,NPK,39
+100,61,64,34,48,7.5,246,Loamy,yellow leaves,yellow leaves,Rice,NPK,38
+42,48,57,23,64,6.4,176,Sandy,yellow leaves,none,Maize,DAP,38
+60,62,61,26,63,6.1,144,Clay,no growth,dry leaves,Maize,Urea,32
+58,47,40,27,57,5.9,161,Clay,none,spots,Maize,NPK,33
+41,65,46,19,70,6.9,112,Clay,spots,yellow leaves,Wheat,Urea,38
+56,49,33,22,45,6.3,236,Loamy,no growth,no growth,Maize,NPK,25
+80,37,70,23,66,5.8,191,Sandy,spots,none,Maize,NPK,20
+57,48,37,34,65,7.1,175,Loamy,no growth,dry leaves,Wheat,DAP,28
+58,44,57,30,90,5.9,110,Loamy,spots,no growth,Wheat,NPK,36
+62,36,68,22,75,5.8,218,Sandy,yellow leaves,spots,Rice,NPK,33
+40,56,36,18,57,7.4,130,Clay,none,yellow leaves,Maize,DAP,36
+100,30,63,21,43,6.8,200,Clay,yellow leaves,spots,Maize,NPK,22
+95,51,51,27,77,6.2,108,Clay,none,none,Wheat,NPK,39
+46,60,62,35,43,6.7,161,Clay,dry leaves,no growth,Maize,Urea,30
+74,66,35,34,84,5.9,147,Clay,yellow leaves,spots,Wheat,DAP,36
+98,66,54,25,79,5.6,193,Sandy,no growth,none,Rice,DAP,20
+54,65,46,29,77,6.6,180,Sandy,spots,no growth,Rice,NPK,28
+59,70,61,18,46,6.0,106,Sandy,spots,yellow leaves,Maize,NPK,34
+44,67,46,18,56,5.9,208,Sandy,none,none,Maize,NPK,31
+61,62,34,22,75,7.1,141,Loamy,dry leaves,none,Rice,NPK,25
+68,65,49,23,42,5.5,192,Clay,no growth,no growth,Maize,DAP,22
+68,64,55,25,49,6.1,174,Clay,no growth,dry leaves,Maize,NPK,40
+61,59,56,18,48,6.1,155,Clay,none,none,Maize,NPK,28
+60,47,57,25,76,6.6,180,Sandy,no growth,spots,Rice,NPK,22
+97,56,59,23,47,6.8,133,Loamy,spots,dry leaves,Rice,NPK,25
+72,44,65,20,84,6.4,104,Sandy,yellow leaves,yellow leaves,Wheat,Urea,28
+98,57,56,26,88,6.9,177,Loamy,yellow leaves,yellow leaves,Maize,NPK,22
+66,64,34,26,40,6.5,221,Loamy,no growth,yellow leaves,Wheat,DAP,27
+73,66,30,27,63,5.7,150,Loamy,no growth,none,Maize,Urea,32
+72,55,49,32,55,6.5,124,Sandy,dry leaves,yellow leaves,Wheat,NPK,23
+66,40,39,26,79,7.5,228,Clay,no growth,yellow leaves,Maize,Urea,21
+98,49,59,21,50,5.7,148,Sandy,none,none,Maize,DAP,23
+65,70,64,29,78,7.1,242,Sandy,dry leaves,spots,Rice,NPK,38
+65,50,55,26,46,6.8,227,Clay,none,yellow leaves,Wheat,DAP,24
+78,30,45,35,90,5.6,220,Sandy,yellow leaves,yellow leaves,Rice,Urea,33
+56,59,38,32,66,5.5,187,Sandy,none,dry leaves,Maize,Urea,27
+95,37,54,35,80,7.0,245,Loamy,none,no growth,Wheat,DAP,37
+51,66,60,33,56,6.0,210,Clay,spots,none,Wheat,NPK,31
+49,48,65,25,42,6.0,147,Sandy,dry leaves,yellow leaves,Maize,NPK,39
+89,35,30,28,49,5.9,247,Sandy,no growth,spots,Maize,DAP,38
+92,36,30,27,68,7.2,108,Clay,dry leaves,no growth,Rice,NPK,40
+93,43,62,30,89,6.7,128,Sandy,spots,no growth,Wheat,DAP,20
+48,41,31,34,53,7.4,194,Loamy,none,none,Wheat,Urea,27
+42,33,49,35,62,6.4,204,Sandy,dry leaves,no growth,Rice,Urea,21
+99,54,49,30,47,6.8,175,Sandy,spots,spots,Wheat,Urea,28
+40,61,70,29,55,6.8,140,Clay,none,yellow leaves,Maize,DAP,35
+83,39,32,32,80,6.8,209,Clay,dry leaves,none,Wheat,NPK,37
+77,62,34,28,65,7.2,199,Loamy,dry leaves,yellow leaves,Wheat,DAP,35
+40,32,59,30,47,5.7,167,Clay,spots,yellow leaves,Maize,Urea,21
+48,46,50,20,61,6.3,231,Sandy,spots,no growth,Maize,Urea,40
+62,64,31,20,76,6.5,216,Loamy,spots,no growth,Wheat,NPK,28
+63,50,61,25,68,6.8,109,Clay,none,spots,Maize,Urea,28
+66,41,45,32,68,5.7,205,Clay,no growth,spots,Maize,Urea,32
+59,47,44,23,68,6.4,210,Clay,yellow leaves,yellow leaves,Wheat,Urea,29
+70,62,68,22,73,7.0,146,Loamy,no growth,dry leaves,Wheat,DAP,31
+68,52,60,31,72,5.5,162,Clay,no growth,no growth,Maize,NPK,31
+42,35,35,25,47,7.0,145,Clay,yellow leaves,yellow leaves,Maize,Urea,30
+75,33,47,29,75,7.4,206,Loamy,dry leaves,spots,Wheat,DAP,26
+44,33,30,33,49,6.4,160,Clay,dry leaves,none,Rice,DAP,23
+85,67,43,23,75,5.7,146,Sandy,spots,none,Wheat,Urea,25
+56,51,67,25,71,6.7,192,Clay,no growth,yellow leaves,Maize,Urea,36
+86,69,47,18,87,6.7,160,Loamy,dry leaves,yellow leaves,Wheat,DAP,34
+59,69,60,32,53,5.8,167,Sandy,no growth,no growth,Wheat,NPK,39
+41,61,33,25,44,6.5,192,Clay,spots,dry leaves,Rice,DAP,30
+67,41,44,26,45,7.2,228,Sandy,yellow leaves,yellow leaves,Wheat,NPK,21
+46,57,43,18,84,7.2,207,Loamy,dry leaves,none,Maize,Urea,38
+82,42,51,22,81,7.2,248,Loamy,dry leaves,dry leaves,Rice,DAP,35
+95,40,54,22,80,5.8,237,Clay,spots,dry leaves,Wheat,Urea,37
+97,50,67,34,89,6.4,223,Clay,yellow leaves,no growth,Maize,DAP,32
+92,44,60,29,58,6.6,250,Sandy,yellow leaves,no growth,Maize,NPK,26
+42,35,52,21,41,6.2,132,Loamy,no growth,spots,Maize,NPK,28
+97,69,41,31,60,7.1,225,Clay,yellow leaves,yellow leaves,Maize,NPK,30
+73,63,62,20,81,6.0,193,Clay,none,yellow leaves,Maize,Urea,37
+45,64,60,33,79,7.0,121,Sandy,dry leaves,no growth,Rice,DAP,22
+62,36,34,35,90,6.0,101,Sandy,spots,yellow leaves,Wheat,Urea,20
+49,51,46,24,80,6.2,193,Sandy,no growth,spots,Rice,Urea,28
+64,69,40,19,61,6.2,115,Loamy,yellow leaves,none,Wheat,NPK,22
+61,63,50,23,72,7.5,220,Loamy,spots,spots,Rice,Urea,25
+93,56,38,34,44,6.1,209,Clay,dry leaves,dry leaves,Maize,Urea,22
+70,52,34,18,53,6.7,222,Clay,yellow leaves,no growth,Wheat,NPK,39
+98,65,60,23,81,6.6,222,Loamy,none,no growth,Rice,DAP,40
+81,69,67,24,75,6.0,215,Loamy,spots,spots,Maize,DAP,26
+60,50,38,32,89,6.4,243,Loamy,spots,none,Wheat,DAP,24
+68,43,62,21,53,6.3,113,Loamy,yellow leaves,spots,Maize,NPK,26
+52,37,58,34,82,6.1,164,Sandy,dry leaves,no growth,Wheat,DAP,25
+51,69,47,31,90,7.4,112,Clay,spots,no growth,Maize,NPK,26
+62,53,42,21,89,6.2,234,Sandy,yellow leaves,yellow leaves,Rice,Urea,20
+67,55,30,33,90,7.1,244,Clay,yellow leaves,dry leaves,Rice,Urea,31
+100,35,55,35,40,7.4,149,Loamy,spots,dry leaves,Maize,NPK,38
+67,32,65,35,85,7.4,187,Clay,spots,spots,Rice,Urea,24
+94,49,51,18,47,5.6,241,Sandy,no growth,dry leaves,Maize,DAP,26
+93,35,55,22,85,7.3,247,Clay,yellow leaves,none,Wheat,DAP,22
+55,63,68,33,73,5.6,244,Sandy,none,dry leaves,Maize,Urea,39
+67,36,56,26,66,5.8,178,Sandy,none,spots,Wheat,Urea,25
+51,44,36,26,70,7.4,240,Loamy,spots,yellow leaves,Rice,DAP,34
+80,49,70,25,84,6.9,112,Sandy,none,spots,Wheat,DAP,20
+95,40,45,28,84,6.1,109,Loamy,spots,none,Maize,Urea,31
+86,51,70,27,60,6.8,201,Sandy,no growth,yellow leaves,Rice,Urea,40
+85,42,51,26,59,7.0,191,Clay,none,yellow leaves,Wheat,NPK,34
+40,67,45,30,47,7.0,229,Clay,no growth,spots,Maize,NPK,22
+78,48,64,30,55,6.6,196,Clay,spots,none,Wheat,Urea,25
+48,56,42,33,60,7.2,220,Clay,no growth,yellow leaves,Rice,Urea,27
+63,66,68,21,41,7.3,120,Clay,none,no growth,Maize,DAP,35
+61,48,52,18,57,5.6,215,Clay,dry leaves,dry leaves,Rice,DAP,27
+47,58,35,20,83,6.6,173,Loamy,yellow leaves,yellow leaves,Rice,Urea,39
+53,35,69,29,48,7.1,163,Loamy,no growth,none,Rice,NPK,37
+89,63,36,28,47,7.2,156,Loamy,no growth,yellow leaves,Wheat,DAP,37
+99,65,66,30,64,7.0,113,Sandy,yellow leaves,spots,Rice,DAP,39
+50,53,63,24,64,5.9,250,Sandy,none,yellow leaves,Wheat,Urea,38
+99,34,49,30,73,6.1,112,Sandy,dry leaves,none,Rice,DAP,33
+66,53,44,33,85,6.5,164,Sandy,no growth,dry leaves,Maize,NPK,24
+83,38,47,22,77,7.0,194,Clay,dry leaves,yellow leaves,Maize,DAP,21
+89,57,39,32,78,6.2,175,Sandy,yellow leaves,dry leaves,Maize,Urea,21
+43,53,34,25,57,5.5,111,Loamy,none,none,Rice,NPK,35
+55,60,41,18,66,7.4,110,Clay,spots,dry leaves,Wheat,DAP,25
+74,30,37,18,66,5.7,156,Loamy,dry leaves,none,Rice,Urea,30
+69,50,48,29,67,6.4,154,Sandy,no growth,none,Rice,NPK,25
+74,56,64,28,52,6.1,194,Clay,spots,spots,Rice,Urea,35
+74,56,62,35,55,6.3,202,Sandy,no growth,dry leaves,Maize,NPK,27
+73,30,58,32,79,6.4,111,Loamy,yellow leaves,spots,Maize,NPK,21
+83,64,36,26,44,6.9,126,Loamy,yellow leaves,spots,Maize,Urea,38
+97,30,54,31,63,5.8,128,Clay,dry leaves,dry leaves,Rice,DAP,27
+68,30,46,26,44,7.1,127,Clay,none,none,Maize,DAP,38
+53,62,57,27,81,7.3,204,Loamy,none,none,Maize,Urea,33
+95,57,56,19,48,6.7,200,Sandy,no growth,none,Wheat,NPK,30
+81,55,37,28,71,5.8,237,Loamy,yellow leaves,yellow leaves,Rice,Urea,34
+52,33,66,34,49,7.4,125,Sandy,dry leaves,yellow leaves,Wheat,NPK,33
+43,68,49,33,49,6.6,217,Sandy,spots,spots,Wheat,Urea,30
+49,60,58,30,72,6.2,134,Clay,dry leaves,dry leaves,Rice,NPK,31
+54,51,70,20,64,6.4,204,Sandy,yellow leaves,spots,Maize,DAP,28
+97,51,43,34,65,6.8,218,Clay,no growth,spots,Rice,DAP,26
+44,32,42,29,59,5.7,114,Loamy,yellow leaves,none,Rice,DAP,25
+43,57,60,28,48,6.0,183,Clay,spots,dry leaves,Wheat,NPK,33
+73,42,55,31,90,6.1,214,Clay,spots,dry leaves,Rice,Urea,38
+99,60,55,25,45,6.9,224,Loamy,spots,no growth,Maize,Urea,23
+41,54,70,29,74,6.2,148,Loamy,dry leaves,spots,Wheat,NPK,38
+73,34,32,32,75,5.5,126,Sandy,yellow leaves,spots,Maize,DAP,20
+74,69,67,35,75,5.5,156,Loamy,yellow leaves,no growth,Maize,NPK,33
+75,52,46,19,62,6.3,180,Sandy,yellow leaves,yellow leaves,Maize,DAP,26
+85,54,60,25,45,6.6,215,Loamy,spots,no growth,Rice,NPK,29
+57,70,54,24,87,6.1,111,Clay,no growth,yellow leaves,Rice,NPK,26
+71,69,36,28,68,6.8,135,Clay,none,spots,Wheat,NPK,26
+48,56,40,19,67,6.7,202,Loamy,spots,yellow leaves,Maize,NPK,37
+66,37,62,20,83,6.6,130,Loamy,dry leaves,yellow leaves,Wheat,Urea,24
+51,63,56,21,46,6.3,235,Clay,none,dry leaves,Wheat,Urea,20
+67,53,39,27,49,7.2,192,Sandy,yellow leaves,spots,Rice,DAP,33
+40,32,52,35,68,6.6,222,Loamy,no growth,spots,Rice,DAP,33
+67,57,30,35,43,6.8,121,Sandy,none,spots,Maize,Urea,39
+55,36,36,21,74,7.0,208,Loamy,no growth,no growth,Maize,NPK,38
+72,34,31,21,42,5.7,147,Sandy,spots,yellow leaves,Wheat,Urea,31
+41,35,32,24,89,5.9,247,Sandy,none,spots,Rice,NPK,34
+95,67,30,18,58,7.2,225,Sandy,no growth,spots,Maize,Urea,36
+82,45,65,28,74,7.0,125,Loamy,spots,no growth,Maize,DAP,22
+84,41,64,24,59,7.1,156,Loamy,no growth,yellow leaves,Maize,DAP,23
+52,44,43,31,78,6.5,140,Clay,spots,yellow leaves,Wheat,DAP,26
+72,64,67,31,84,7.1,151,Loamy,no growth,yellow leaves,Rice,DAP,33
+59,33,49,19,44,6.8,102,Loamy,spots,yellow leaves,Wheat,Urea,20
+95,33,49,34,62,5.7,238,Sandy,no growth,dry leaves,Wheat,Urea,24
+51,47,32,20,72,7.0,189,Loamy,spots,yellow leaves,Rice,Urea,21
+53,31,52,27,80,6.7,151,Clay,none,spots,Rice,DAP,33
+58,42,32,35,86,6.7,133,Loamy,no growth,none,Wheat,DAP,28
+46,66,46,31,58,5.9,157,Sandy,yellow leaves,no growth,Rice,NPK,31
+91,31,41,26,70,7.0,211,Loamy,yellow leaves,none,Rice,NPK,20
+93,39,42,30,71,6.1,143,Clay,no growth,yellow leaves,Rice,NPK,36
+63,57,63,30,57,7.4,129,Loamy,yellow leaves,spots,Maize,DAP,40
+53,42,54,30,83,6.5,248,Sandy,dry leaves,yellow leaves,Maize,DAP,23
+43,37,62,22,83,7.1,250,Loamy,dry leaves,dry leaves,Rice,DAP,28
+82,56,64,22,80,5.7,181,Sandy,no growth,dry leaves,Wheat,Urea,20
+57,65,33,28,67,5.8,249,Loamy,none,no growth,Wheat,NPK,36
+67,60,56,26,45,7.4,225,Sandy,dry leaves,yellow leaves,Maize,Urea,32
+65,61,37,23,56,6.1,121,Loamy,dry leaves,yellow leaves,Wheat,DAP,32
+100,40,66,34,86,6.5,215,Loamy,yellow leaves,none,Maize,DAP,23
+99,70,55,21,55,5.6,117,Loamy,no growth,spots,Rice,DAP,30
+56,37,42,35,70,6.2,213,Loamy,yellow leaves,spots,Maize,Urea,33
+73,31,31,20,57,5.8,240,Loamy,none,dry leaves,Wheat,NPK,30
+99,32,43,32,40,6.3,229,Sandy,no growth,spots,Maize,DAP,33
+89,48,69,18,73,6.0,186,Clay,dry leaves,no growth,Wheat,NPK,25
+50,66,31,22,42,5.6,156,Sandy,none,dry leaves,Maize,NPK,27
+44,54,61,25,53,6.4,129,Loamy,spots,none,Wheat,DAP,32
+82,70,33,31,64,5.6,178,Clay,no growth,yellow leaves,Rice,DAP,21
+83,69,50,28,43,6.8,134,Loamy,dry leaves,none,Maize,NPK,32
+94,59,62,20,80,5.7,107,Sandy,no growth,no growth,Rice,NPK,34
+50,60,57,28,56,6.3,157,Loamy,none,spots,Maize,NPK,34
+59,57,43,18,53,5.8,146,Loamy,yellow leaves,spots,Rice,DAP,39
+93,36,42,34,88,6.7,248,Loamy,none,none,Rice,DAP,21
+81,63,34,18,49,7.5,128,Sandy,yellow leaves,none,Maize,NPK,31
+67,38,66,25,46,6.0,126,Loamy,dry leaves,spots,Rice,NPK,24
+74,46,50,29,89,6.3,173,Loamy,yellow leaves,yellow leaves,Maize,NPK,32
+84,35,51,34,72,5.6,204,Sandy,spots,spots,Maize,Urea,22
+100,64,58,30,40,5.8,172,Sandy,spots,dry leaves,Wheat,Urea,24
+71,57,30,35,71,6.3,237,Clay,dry leaves,none,Wheat,Urea,27
+42,33,30,26,57,6.5,113,Loamy,yellow leaves,yellow leaves,Rice,Urea,28
+90,53,32,30,70,5.8,131,Loamy,spots,dry leaves,Wheat,DAP,40
+72,51,56,27,58,6.2,165,Sandy,none,no growth,Wheat,NPK,36
+88,66,57,26,74,7.0,225,Clay,spots,yellow leaves,Rice,NPK,38
+79,47,53,19,56,5.7,228,Loamy,dry leaves,dry leaves,Maize,NPK,38
+47,66,36,25,90,7.3,103,Sandy,yellow leaves,none,Maize,Urea,29
+59,51,58,24,42,6.5,178,Sandy,no growth,none,Maize,DAP,34
+100,59,70,19,84,6.1,125,Sandy,none,dry leaves,Maize,DAP,34
+44,63,49,23,85,6.7,112,Clay,spots,spots,Rice,NPK,31
+54,56,58,18,45,7.0,104,Sandy,spots,yellow leaves,Rice,DAP,40
+62,41,41,26,48,6.1,197,Loamy,no growth,spots,Wheat,Urea,31
+51,40,64,28,72,6.8,214,Clay,no growth,spots,Maize,DAP,22
+54,39,36,19,86,6.2,197,Sandy,spots,spots,Wheat,Urea,27
+72,31,60,21,64,5.5,184,Clay,dry leaves,none,Maize,DAP,28
+90,51,50,20,58,5.6,228,Loamy,dry leaves,dry leaves,Maize,NPK,21
+43,38,62,27,81,6.0,231,Loamy,spots,dry leaves,Maize,Urea,39
+80,69,59,31,58,5.7,239,Clay,yellow leaves,none,Maize,Urea,38
+83,35,37,20,90,5.6,118,Sandy,yellow leaves,spots,Wheat,DAP,23
+100,30,59,21,86,7.5,198,Sandy,dry leaves,no growth,Wheat,NPK,40
+76,34,39,31,73,7.4,212,Sandy,spots,dry leaves,Wheat,DAP,22
+83,64,33,23,88,5.5,161,Sandy,dry leaves,yellow leaves,Wheat,DAP,28
+97,58,48,31,73,5.5,241,Sandy,no growth,dry leaves,Maize,Urea,40
+61,40,32,33,59,7.5,214,Sandy,yellow leaves,yellow leaves,Maize,NPK,20
+87,63,63,32,46,6.2,175,Sandy,dry leaves,spots,Maize,Urea,25
+95,40,30,25,50,7.3,141,Clay,no growth,spots,Rice,Urea,33
+89,59,65,22,54,6.8,101,Clay,spots,dry leaves,Maize,Urea,27
+70,62,30,26,48,6.6,250,Loamy,yellow leaves,dry leaves,Rice,Urea,34
+54,32,48,28,42,6.8,236,Loamy,none,none,Maize,Urea,32
+53,36,65,31,66,5.6,180,Sandy,no growth,no growth,Wheat,DAP,24
+67,44,66,24,46,5.8,115,Loamy,dry leaves,dry leaves,Wheat,NPK,32
+73,50,68,27,59,6.1,152,Loamy,none,no growth,Wheat,Urea,33
+48,58,57,32,50,5.9,177,Clay,none,yellow leaves,Wheat,NPK,30
+76,68,36,26,76,6.7,233,Clay,spots,no growth,Rice,NPK,33
+67,67,63,25,71,5.6,144,Sandy,spots,no growth,Maize,NPK,25
+75,34,56,26,56,6.1,186,Loamy,none,none,Maize,DAP,40
+74,40,57,26,85,7.1,160,Sandy,no growth,dry leaves,Maize,NPK,22
+67,39,51,32,63,7.2,198,Loamy,dry leaves,no growth,Maize,NPK,22
+52,68,43,19,58,5.9,248,Clay,none,dry leaves,Maize,DAP,39
+66,30,49,27,62,6.0,240,Sandy,yellow leaves,no growth,Maize,DAP,20
+55,64,50,23,50,6.4,216,Loamy,none,spots,Wheat,Urea,28
+41,53,70,29,65,6.1,129,Clay,yellow leaves,no growth,Rice,NPK,35
+72,31,69,35,65,6.8,178,Clay,spots,dry leaves,Rice,NPK,20
+60,50,56,24,75,7.4,222,Clay,dry leaves,dry leaves,Rice,Urea,27
+89,49,40,27,84,6.5,178,Loamy,yellow leaves,yellow leaves,Maize,DAP,38
+85,60,45,28,71,6.2,152,Clay,yellow leaves,yellow leaves,Wheat,DAP,37
+98,70,44,30,70,7.1,137,Sandy,yellow leaves,dry leaves,Wheat,DAP,30
+84,36,39,27,85,6.2,202,Loamy,no growth,yellow leaves,Wheat,Urea,28
+55,59,60,34,86,7.0,221,Clay,none,no growth,Maize,Urea,32
+92,51,34,28,66,6.5,139,Clay,dry leaves,dry leaves,Wheat,NPK,28
+71,36,50,20,55,7.2,121,Clay,dry leaves,yellow leaves,Rice,DAP,33
+68,65,68,23,63,5.7,136,Loamy,none,spots,Maize,Urea,23
+84,60,70,30,82,6.4,216,Loamy,spots,dry leaves,Wheat,DAP,36
+97,42,65,24,44,5.5,100,Loamy,yellow leaves,dry leaves,Maize,Urea,24
+55,56,40,21,44,7.0,249,Clay,spots,yellow leaves,Wheat,Urea,38
+46,62,64,30,86,6.5,236,Loamy,spots,spots,Rice,Urea,21
+85,40,48,33,74,6.5,228,Sandy,yellow leaves,none,Rice,DAP,33
+80,66,32,26,65,6.7,123,Loamy,dry leaves,spots,Wheat,NPK,28
+95,31,60,18,74,6.2,110,Clay,yellow leaves,spots,Rice,DAP,26
+90,46,42,31,53,7.1,237,Sandy,dry leaves,dry leaves,Wheat,Urea,29
+44,43,48,35,50,6.4,126,Clay,no growth,spots,Wheat,NPK,29
+90,44,42,34,67,7.1,162,Loamy,dry leaves,none,Maize,Urea,27
+83,68,55,18,82,6.0,116,Clay,spots,no growth,Rice,NPK,29
+40,61,60,34,60,7.0,200,Sandy,spots,no growth,Wheat,DAP,22
+54,59,43,23,57,7.3,220,Clay,no growth,spots,Maize,Urea,36
+58,40,42,30,72,6.4,132,Sandy,yellow leaves,no growth,Rice,Urea,27
+51,57,63,30,55,6.4,111,Loamy,yellow leaves,spots,Maize,Urea,35
+94,56,64,28,48,7.4,230,Clay,no growth,none,Maize,Urea,30
+69,54,63,24,88,7.4,215,Loamy,spots,spots,Wheat,Urea,30
+93,46,54,20,55,5.7,194,Sandy,yellow leaves,no growth,Maize,NPK,31
+79,70,59,25,83,7.0,159,Loamy,none,yellow leaves,Wheat,NPK,22
+99,43,63,19,71,6.3,157,Sandy,no growth,yellow leaves,Maize,Urea,40
+83,56,43,20,48,7.1,229,Loamy,no growth,dry leaves,Rice,Urea,38
+75,40,69,32,79,5.7,178,Sandy,no growth,no growth,Wheat,Urea,30
+81,47,60,25,65,6.9,247,Sandy,none,no growth,Rice,NPK,37
+95,50,34,25,54,5.8,199,Loamy,yellow leaves,yellow leaves,Rice,DAP,28
+90,48,37,23,86,6.2,166,Sandy,no growth,no growth,Maize,DAP,28
+44,50,69,27,87,6.0,169,Sandy,none,spots,Rice,Urea,40
+76,35,36,24,81,5.9,154,Sandy,dry leaves,spots,Rice,Urea,37
+63,53,34,32,75,6.5,206,Loamy,spots,spots,Rice,NPK,27
+77,38,41,27,64,6.0,107,Sandy,dry leaves,yellow leaves,Maize,Urea,30
+53,50,49,23,66,7.1,170,Loamy,dry leaves,yellow leaves,Rice,NPK,27
+71,44,58,34,46,5.9,206,Clay,no growth,spots,Rice,Urea,30
+99,51,67,33,70,6.1,203,Sandy,dry leaves,yellow leaves,Rice,DAP,22
+54,70,54,21,87,7.0,179,Sandy,no growth,yellow leaves,Maize,NPK,23
+99,46,56,23,65,7.3,219,Sandy,spots,yellow leaves,Wheat,DAP,21
+57,48,61,35,42,5.7,186,Sandy,dry leaves,yellow leaves,Wheat,DAP,39
+70,33,44,18,79,5.6,225,Clay,yellow leaves,dry leaves,Rice,NPK,35
+91,46,70,25,42,7.5,227,Clay,yellow leaves,dry leaves,Maize,DAP,40
+92,63,70,18,49,6.8,137,Clay,dry leaves,no growth,Rice,DAP,23
+44,59,49,22,51,5.6,185,Loamy,none,no growth,Rice,Urea,24
+61,62,54,26,62,6.9,183,Sandy,yellow leaves,dry leaves,Wheat,DAP,26
+47,57,40,22,62,5.9,219,Sandy,none,spots,Wheat,DAP,33
+71,38,60,28,43,6.0,143,Loamy,dry leaves,yellow leaves,Maize,DAP,33
+76,43,59,20,69,7.3,117,Sandy,no growth,none,Wheat,DAP,21
+76,47,58,19,88,7.3,226,Clay,none,yellow leaves,Rice,NPK,38
+93,67,49,30,72,5.8,133,Clay,no growth,spots,Rice,NPK,38
+99,55,61,30,73,6.4,174,Loamy,no growth,dry leaves,Rice,NPK,26
+70,55,53,30,70,5.9,247,Loamy,yellow leaves,yellow leaves,Wheat,NPK,30
+54,51,64,24,89,6.1,232,Sandy,yellow leaves,no growth,Wheat,NPK,32
+54,64,44,26,84,5.7,206,Clay,yellow leaves,no growth,Maize,NPK,37
+52,40,56,34,66,7.4,219,Clay,dry leaves,no growth,Rice,DAP,22
+69,42,37,33,58,6.7,190,Loamy,dry leaves,spots,Maize,NPK,21
+54,53,44,29,65,5.6,160,Loamy,dry leaves,spots,Maize,Urea,26
+42,34,45,33,41,5.6,147,Loamy,dry leaves,dry leaves,Rice,NPK,31
+50,52,50,29,89,7.1,233,Sandy,yellow leaves,dry leaves,Maize,Urea,28
+73,65,30,18,78,5.9,213,Clay,dry leaves,none,Rice,DAP,20
+46,56,47,22,58,5.8,164,Sandy,no growth,spots,Rice,NPK,20
+94,48,39,20,56,6.7,135,Loamy,dry leaves,none,Rice,NPK,39
+79,58,32,20,43,6.6,129,Clay,dry leaves,dry leaves,Rice,Urea,31
+40,31,33,20,85,7.1,187,Loamy,no growth,no growth,Wheat,DAP,37
+85,61,46,20,82,5.8,194,Sandy,no growth,no growth,Wheat,DAP,38
+66,36,34,30,66,7.5,221,Clay,none,no growth,Maize,NPK,20
+85,39,43,33,72,7.4,229,Sandy,yellow leaves,spots,Maize,NPK,35
+44,61,38,26,89,6.1,187,Clay,spots,yellow leaves,Rice,DAP,33
+86,48,38,26,58,6.4,157,Sandy,dry leaves,spots,Rice,NPK,20
+57,62,50,23,84,7.3,183,Clay,dry leaves,spots,Maize,DAP,35
+46,62,47,23,61,5.9,140,Loamy,yellow leaves,spots,Rice,DAP,34
+71,61,47,34,89,6.6,120,Sandy,none,no growth,Wheat,DAP,27
+47,37,70,32,56,7.0,190,Clay,none,none,Rice,DAP,22
+94,56,39,18,81,6.8,126,Loamy,dry leaves,dry leaves,Wheat,DAP,40
+99,42,51,20,63,7.0,210,Sandy,dry leaves,spots,Wheat,NPK,37
+70,44,61,34,43,7.0,131,Loamy,yellow leaves,spots,Rice,DAP,21
+76,52,46,29,81,5.8,218,Loamy,spots,none,Rice,DAP,30
+62,57,51,30,52,6.6,126,Sandy,none,no growth,Maize,NPK,38
+88,38,47,31,63,5.8,196,Sandy,no growth,spots,Wheat,NPK,36
+90,30,38,28,51,5.9,102,Loamy,none,no growth,Maize,Urea,40
+94,38,59,19,46,5.9,114,Clay,spots,no growth,Maize,NPK,28
+72,70,45,31,90,5.8,220,Sandy,yellow leaves,yellow leaves,Wheat,NPK,36
+45,55,56,19,82,6.1,244,Loamy,dry leaves,spots,Wheat,Urea,25
+78,39,51,34,85,6.1,156,Loamy,spots,yellow leaves,Wheat,DAP,31
+43,45,38,18,68,6.9,135,Sandy,yellow leaves,none,Rice,NPK,23
+80,39,67,34,41,7.0,179,Clay,none,spots,Wheat,Urea,20
+81,68,68,24,50,5.9,237,Clay,dry leaves,spots,Maize,Urea,35
+95,57,36,21,80,6.5,119,Loamy,none,none,Maize,NPK,29
+99,58,33,18,49,5.6,138,Sandy,no growth,yellow leaves,Rice,DAP,27
+73,37,58,21,89,7.1,139,Loamy,yellow leaves,yellow leaves,Rice,DAP,37
+43,36,32,24,47,6.1,230,Loamy,dry leaves,none,Wheat,DAP,37
+64,39,62,28,86,6.8,126,Sandy,none,dry leaves,Rice,DAP,31
+84,53,52,35,50,5.8,230,Sandy,spots,spots,Wheat,DAP,20
+44,33,55,35,89,6.0,212,Clay,yellow leaves,spots,Rice,DAP,26
+45,61,65,32,85,5.8,196,Loamy,no growth,no growth,Wheat,DAP,24
+76,56,61,19,79,5.7,175,Sandy,yellow leaves,dry leaves,Rice,Urea,37
+61,44,49,25,66,5.8,176,Loamy,dry leaves,dry leaves,Rice,DAP,35
+80,52,48,26,58,7.4,145,Clay,no growth,no growth,Wheat,NPK,27
+48,47,39,31,57,6.1,162,Clay,dry leaves,dry leaves,Wheat,Urea,24
+61,57,60,29,88,6.7,239,Sandy,no growth,yellow leaves,Rice,Urea,25
+95,43,56,24,62,6.2,219,Clay,none,dry leaves,Maize,Urea,35
+88,69,34,18,76,6.8,222,Loamy,no growth,spots,Maize,NPK,38
+61,55,31,25,41,6.8,244,Loamy,dry leaves,spots,Rice,NPK,40
+62,52,50,32,75,7.3,181,Sandy,dry leaves,spots,Rice,NPK,39
+45,66,59,32,88,6.0,120,Clay,yellow leaves,dry leaves,Rice,DAP,23
+96,56,36,19,80,6.4,100,Clay,no growth,spots,Maize,Urea,35
+44,55,41,25,81,6.6,108,Clay,none,none,Wheat,NPK,30
+46,36,41,26,47,6.1,159,Loamy,no growth,dry leaves,Wheat,DAP,23
+96,57,46,21,65,6.1,206,Loamy,none,yellow leaves,Maize,NPK,38
+95,57,65,28,50,6.3,189,Loamy,dry leaves,none,Rice,DAP,27
+58,51,59,19,52,6.9,210,Loamy,yellow leaves,none,Maize,DAP,23
+54,37,30,27,74,5.9,117,Sandy,none,no growth,Wheat,NPK,36
+42,64,62,20,51,6.0,237,Clay,dry leaves,none,Rice,NPK,34
+94,39,56,33,76,6.4,200,Loamy,yellow leaves,dry leaves,Rice,NPK,40
+61,58,57,26,76,6.1,223,Sandy,none,no growth,Maize,NPK,24
+90,54,39,22,52,7.0,169,Loamy,none,spots,Rice,DAP,32
+93,52,39,31,66,6.1,181,Sandy,spots,spots,Wheat,NPK,25
+73,67,38,20,68,7.2,229,Sandy,dry leaves,no growth,Maize,DAP,33
+71,61,68,25,40,5.9,150,Loamy,yellow leaves,yellow leaves,Rice,NPK,28
+74,44,39,27,72,5.7,195,Sandy,yellow leaves,spots,Wheat,NPK,38
+40,63,65,33,48,7.0,125,Sandy,spots,spots,Wheat,DAP,38
+42,32,40,33,87,6.3,207,Sandy,spots,spots,Wheat,NPK,32
+81,32,34,27,86,5.6,240,Loamy,spots,yellow leaves,Wheat,DAP,34
+73,35,56,22,53,6.2,219,Clay,yellow leaves,no growth,Maize,Urea,23
+43,67,45,26,58,5.5,120,Sandy,no growth,no growth,Rice,NPK,23
+45,43,70,20,47,7.2,170,Loamy,yellow leaves,yellow leaves,Maize,Urea,36
+86,43,51,22,90,6.5,174,Loamy,spots,spots,Maize,Urea,32
+88,70,37,24,49,5.5,179,Clay,yellow leaves,dry leaves,Rice,Urea,39
+50,33,60,29,85,6.8,136,Clay,yellow leaves,dry leaves,Maize,Urea,25
+95,51,35,27,45,6.7,144,Loamy,dry leaves,dry leaves,Wheat,Urea,31
+70,49,40,33,43,6.8,185,Sandy,spots,no growth,Maize,DAP,31
+80,58,52,35,75,7.2,245,Clay,dry leaves,none,Maize,Urea,39
+85,50,35,24,78,7.2,175,Sandy,no growth,spots,Maize,DAP,26
+98,67,34,31,70,6.7,197,Clay,spots,spots,Maize,NPK,22
+56,38,30,35,53,6.8,220,Loamy,spots,dry leaves,Maize,Urea,38
+82,42,36,21,72,5.8,160,Clay,none,dry leaves,Wheat,DAP,28
+68,42,66,34,90,7.3,167,Loamy,yellow leaves,none,Wheat,DAP,31
+98,67,30,28,86,7.4,123,Loamy,no growth,no growth,Maize,DAP,40
+82,46,58,32,77,6.9,185,Sandy,dry leaves,none,Maize,NPK,20
+76,31,62,26,80,6.5,187,Clay,no growth,none,Maize,NPK,29
+57,55,36,18,59,7.1,219,Clay,no growth,dry leaves,Maize,DAP,26
+75,61,59,23,72,7.3,116,Clay,spots,yellow leaves,Maize,Urea,37
+77,66,33,26,45,6.1,196,Sandy,spots,yellow leaves,Rice,Urea,39
+42,43,49,33,59,6.4,179,Sandy,no growth,none,Maize,DAP,32
